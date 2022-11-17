@@ -1,0 +1,22 @@
+[22-Sep-2022 16:21:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:33:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:33:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:33:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:33:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:35:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'gbs'@'localhost' (using password: YES) in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:36:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'mennonitengemeinde'@'localhost' to database 'mennonitengemeinde' in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:36:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'mennonitengemeinde'@'localhost' to database 'mennonitengemeinde' in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:36:25 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'mennonitengemeinde'@'localhost' to database 'mennonitengemeinde' in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:36:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'mennonitengemeinde'@'localhost' to database 'mennonitengemeinde' in /home/q1473ll8fbsg/public_html/gbs/logins/db.php on line 8
+[22-Sep-2022 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 13
+[22-Sep-2022 16:49:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 56
+[22-Sep-2022 16:49:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 57
+[22-Sep-2022 16:49:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 58
+[22-Sep-2022 16:53:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 13
+[22-Sep-2022 16:53:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 56
+[22-Sep-2022 16:53:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 57
+[22-Sep-2022 16:53:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 58
+[22-Sep-2022 19:08:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 13
+[22-Sep-2022 19:08:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 56
+[22-Sep-2022 19:08:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 57
+[22-Sep-2022 19:08:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/q1473ll8fbsg/public_html/gbs/logins/edit.php on line 58

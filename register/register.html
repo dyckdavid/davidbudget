@@ -1,0 +1,66 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../style/nav.css" />
+        <link rel="stylesheet" href="../style/imgslider.css" />
+        <link rel="stylesheet" href="../style/calendar.css" />
+        <link rel="stylesheet" href="../style/sermons.css" />
+        <link rel="stylesheet" href="../style/officialevents.css" />
+        <link rel="stylesheet" href="./register.css" />
+        <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/nav.css" />
+        <title>Register</title>
+    </head>
+    <body>
+      <header>
+        <div id="brand"><a href="index.html" class="title__nav__bar">David Dyck</a></div>
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../budget.html">Budget</a></li>
+            <li id="login"><a href="logins/login.html" >Login</a></li>
+          </ul>
+        </nav>
+        <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
+          <div class="bar1"></div>
+          <div class="bar2"></div>
+          <div class="bar3"></div>
+          <ul class="mobile-menu">
+            <li><a href="../index.html" style="color: black;">Home</a></li>
+            <li><a href="../budget.html" style="color: black;">Budget</a></li>
+            <li id="login"><a href="logins/login.html" >Login</a></li>
+          </ul>
+        </div>
+    </header>
+
+    <center><h1 class="register__in__title">Register</h1></center>
+
+        <div class="login-page">
+            <div class="form">
+              
+              <form class="login-form">
+                <input id="name" class="name" type="text" placeholder="Name" required/>
+                <input id="email" class="email" type="email" placeholder="email" required/>
+                <input type="service" placeholder="Workplace"/>
+                <input type="date" id="birthday" name="birthday">
+                        <select name="gender" id="gender" class="form-control">  
+                               <option value="Km. 5">male</option>  
+                               <option value="Swift">female</option>  
+                          </select>
+                <input id="passsword" class="password" type="password" placeholder="passsword" required/>
+                <button type="submit" name="insert" id="insert" value="Insert" class="btn btn-success">Register</button>
+                <p class="message">already an account? <a href="../logins/login.html">Login</a></p>
+              </form>
+            </div>
+          </div>
+    </body>
+
+        
+    <script src="../script/app.js"></script>
+    <script src="../register.js"></script>
+    </html>
+    
